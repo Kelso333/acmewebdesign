@@ -174,11 +174,13 @@ ul#services li {
 
 
 footer {
+  width: 100%;
   padding: 20px;
-  margin-top: 20px;
+  margin-top: 35px;
   color: #fff;
   background-color: #e8491d;
   text-align: center;
+  position: fixed;
 }
 
 
