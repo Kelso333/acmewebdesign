@@ -228,4 +228,8 @@ footer#services {
   margin-bottom: 5px;
 }
 
+footer#about {
+  margin-top: 151px;
+}
+
 } /* end of media queries */
