@@ -173,26 +173,33 @@ ul#services li {
 }
 
 
-footer, footer#about, footer#services {
+/*footer, footer#about, footer#services {
   width: 100%;
   padding: 20px;
-  margin-top: 35px;
+  color: #fff;
+  background-color: #e8491d;
+  text-align: center;
+  position: fixed;
+}*/
+
+footer#about {
+  margin-top: 141px;
+  width: 100%;
+  padding: 20px;
   color: #fff;
   background-color: #e8491d;
   text-align: center;
   position: fixed;
 }
 
-footer#about {
-  margin-top: 468px;
-}
-
 footer#services {
-  margin-top: 83px;
+  margin-top: 15px;
+  text-align: center;
+  background-color: #e8491d;
+  color: #fff;
+  padding: 20px;
+
 }
-
-
-
 
 /* Media Queries */
 
@@ -228,8 +235,8 @@ footer#services {
   margin-bottom: 5px;
 }
 
-footer#about {
-  margin-top: 151px;
-}
+/*footer#about {
+  margin-top: 100px;
+}*/
 
 } /* end of media queries */
