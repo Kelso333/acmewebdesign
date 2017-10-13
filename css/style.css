@@ -173,14 +173,13 @@ ul#services li {
 }
 
 
-/*footer, footer#about, footer#services {
-  width: 100%;
-  padding: 20px;
+footer {
+  margin-top: 30px;
+  text-align: center;
   color: #fff;
   background-color: #e8491d;
-  text-align: center;
-  position: fixed;
-}*/
+  padding: 20px;
+}
 
 footer#about {
   margin-top: 141px;
@@ -189,11 +188,10 @@ footer#about {
   color: #fff;
   background-color: #e8491d;
   text-align: center;
-  position: fixed;
 }
 
 footer#services {
-  margin-top: 15px;
+  margin-top: 50px;
   text-align: center;
   background-color: #e8491d;
   color: #fff;
@@ -235,8 +233,5 @@ footer#services {
   margin-bottom: 5px;
 }
 
-/*footer#about {
-  margin-top: 100px;
-}*/
 
 } /* end of media queries */
